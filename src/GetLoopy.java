@@ -22,6 +22,13 @@ public class GetLoopy {
         }
         System.out.println("\n");
 
+        // Task 4: Count down by 2 from 10 to 0
+        System.out.println("Task 4: Count down by 2 from 10 to 0");
+        for (int i = 10; i >= 0; i -= 2) {
+            System.out.print(i + " ");
+        }
+        System.out.println();
+
 
     }
 }
